@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Njegos-Quote/static/css/main.021bef9d.chunk.css",
+    "main.js": "/Njegos-Quote/static/js/main.38044ef5.chunk.js",
+    "main.js.map": "/Njegos-Quote/static/js/main.38044ef5.chunk.js.map",
+    "runtime-main.js": "/Njegos-Quote/static/js/runtime-main.5fdf3797.js",
+    "runtime-main.js.map": "/Njegos-Quote/static/js/runtime-main.5fdf3797.js.map",
+    "static/css/2.4be38407.chunk.css": "/Njegos-Quote/static/css/2.4be38407.chunk.css",
+    "static/js/2.4c9a0419.chunk.js": "/Njegos-Quote/static/js/2.4c9a0419.chunk.js",
+    "static/js/2.4c9a0419.chunk.js.map": "/Njegos-Quote/static/js/2.4c9a0419.chunk.js.map",
+    "index.html": "/Njegos-Quote/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Njegos-Quote/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.021bef9d.chunk.css.map": "/Njegos-Quote/static/css/main.021bef9d.chunk.css.map",
+    "static/js/2.4c9a0419.chunk.js.LICENSE.txt": "/Njegos-Quote/static/js/2.4c9a0419.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fdf3797.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.4c9a0419.chunk.js",
+    "static/css/main.021bef9d.chunk.css",
+    "static/js/main.38044ef5.chunk.js"
+  ]
+}
