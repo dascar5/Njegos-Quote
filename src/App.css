@@ -1,0 +1,13 @@
+/** @format */
+
+.box {
+  background-color: white;
+  position: relative;
+}
+
+.fa-quote-left {
+  position: relative;
+  opacity: 0.5;
+  top: 10;
+  left: 10;
+}
